@@ -1,0 +1,1 @@
+This script is used to create a date table in the Power BI project. That makes DateAsInteger (YYYYMMDD), Year (YYYY), MonthNo (MM), YearMonthNo(YYYY/MM), YearMonth (YYYY/MMM), MonthShort (MMM), MonthLong (MMMM), WeekNo, WeekDay (DDDD), WeekDayShort (DDD), Quarter (Q), and YearQuarter(YYYY/Q) Columns in the table.
